@@ -1,6 +1,5 @@
-# horoscope
 <!-- & This creates a banner for the ReadMe -->
-<img src="img/maiden-and-her-bunny-among-the-forest.png" alt="" width="100%" height="500">
+<img src="img/cherry-blossom-fox-maiden.png" alt="" width="100%" height="500">
 
 # <p align="center">🌸 Horoscope Fortune Teller 🌸</p>
 

@@ -143,7 +143,7 @@
 
 /*
 & This program focuses on the Month of June with random fortunes
-~ This project focuses on control flow
+~ This project focuses on control flow (which is what the project specifically asks for)
     ~ Meaning if / else if / else statements
 */
 //~ Define a variable for tthe horoscope month as a number
@@ -185,4 +185,3 @@ if (randomNumber === 1) {
 
 //~ Print the zodiac sign and a random fortune for the month of June
 console.log('For the month of June, the zodiac sign is: ' + zodiacSign + '. \nThis is your fortune message: ' + fortune);
-
